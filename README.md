@@ -19,7 +19,4 @@
   <img src="https://i.ibb.co/pySspyM/2021-05-30-170426.png">
 </p>
 
-<p align="center">
-  <img src="https://i.ibb.co/C2CFk2L/2021-05-30-170715.png">
-</p>
 
